@@ -1,4 +1,4 @@
-﻿# Q-Panda
+# Q-Panda
 
 ![Q-Panda Logo](/img/Q_Panda_logo.png)
 
@@ -22,7 +22,7 @@ QRunes Generator 是一个支持以函数调用方式生成QRunes指令的C++库
 
 ## License
 
-
+123
 
 [Apache License 2.0](LICENSE)
 
